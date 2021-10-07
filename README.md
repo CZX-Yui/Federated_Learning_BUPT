@@ -15,11 +15,13 @@
 ## 2. 联邦学习论文汇总
 
 - **文献权威总结** : https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
-- **文献总结个人** : https://github.com/lokinko/Federated-Learning
-- 其它总结 : https://github.com/tao-shen/tao-shen.github.io
+- **文献总结个人** :  
+  - https://github.com/lokinko/Federated-Learning  (169)
+  - https://github.com/ZeroWangZY/federated-learning (393)
+- 其它总结 : 
+  - https://github.com/tao-shen/tao-shen.github.io
 
 ## 3. 联邦学习论文复现
 
 - **FedAVG** : https://github.com/roxanneluo/Federated-Learning
-- **FedProx** : https://github.com/ZeroWangZY/federated-learning
-- **Federated Optimization in Heterogeneous Networks** : https://github.com/litian96/FedProx
+- **FedProx** : https://github.com/litian96/FedProx
