@@ -25,5 +25,7 @@
 
 ## 3. 联邦学习论文复现
 
-- **FedAVG** : https://github.com/roxanneluo/Federated-Learning
+- **FedAVG** : 
+  - https://github.com/roxanneluo/Federated-Learning
+  - https://github.com/AshwinRJ/Federated-Learning-PyTorch
 - **FedProx** : https://github.com/litian96/FedProx
