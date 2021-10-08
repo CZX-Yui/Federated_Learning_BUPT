@@ -14,7 +14,9 @@
 
 ## 2. 联邦学习论文汇总
 
-- **文献权威总结** : https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+- **文献权威总结** : 
+  - https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+  - https://github.com/chaoyanghe/Awesome-Federated-Learning
 - **文献总结个人** :  
   - https://github.com/lokinko/Federated-Learning  (169)
   - https://github.com/ZeroWangZY/federated-learning (393)
