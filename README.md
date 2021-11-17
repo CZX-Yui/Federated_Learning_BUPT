@@ -29,3 +29,4 @@
   - https://github.com/roxanneluo/Federated-Learning
   - https://github.com/AshwinRJ/Federated-Learning-PyTorch
 - **FedProx** : https://github.com/litian96/FedProx
+- **FedNova** : https://github.com/JYWa/FedNova
