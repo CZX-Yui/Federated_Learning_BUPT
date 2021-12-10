@@ -31,3 +31,10 @@
 - **FedProx** : https://github.com/litian96/FedProx
 - **FedNova** : https://github.com/JYWa/FedNova
 - **SHOT** : https://github.com/tim-learn/SHOT
+
+# 二. 实验设计
+
+## 1. 开源数据集
+
+- CWRU数据集
+  - 参考数据处理: https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark  
